@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529945941851",
+    "firebase_url": "https://merge-blocks-71a46.firebaseio.com",
+    "project_id": "merge-blocks-71a46",
+    "storage_bucket": "merge-blocks-71a46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529945941851:android:36c877deefca33e3cbec7e",
+        "android_client_info": {
+          "package_name": "com.newpubco.merge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529945941851-5rco37rt83mavbn7nfl8152d83o2lqhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6WS5Qif0AtovgFYN6epk92dlbqOH4qgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529945941851-5rco37rt83mavbn7nfl8152d83o2lqhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

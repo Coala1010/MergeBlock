@@ -1,0 +1,10 @@
+<projectSettings>
+<<<<<<< HEAD
+  <projectSetting name="Google.IOSResolver.VerboseLoggingEnabled" value="True" />
+  <projectSetting name="Google.VersionHandler.VerboseLoggingEnabled" value="False" />
+=======
+  <projectSetting name="Google.IOSResolver.VerboseLoggingEnabled" value="False" />
+  <projectSetting name="Google.VersionHandler.VerboseLoggingEnabled" value="True" />
+  <projectSetting name="GooglePlayServices.UseJetifier" value="True" />
+>>>>>>> fdcd4d12750dbcc64f4fa7cb170ad1081e58df13
+</projectSettings>

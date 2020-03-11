@@ -1,2 +1,1 @@
-# MergeBlock
-Unity Puzzle Game
+# Merge-Block
